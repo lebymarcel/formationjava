@@ -6,6 +6,14 @@ Formation sur springboot
 ## Liens
 -https://start.spring.io/
 
+http://www.java2s.com/Tutorials/Java/JPA/0120__JPA_Column_Name.htm
+
+https://www.baeldung.com/jpa-get-auto-generated-id
+
+Liens de configuration des base de données
+https://www.baeldung.com/spring-boot-h2-database
+
+
 ## Les dépendances du Projet
 Spring Data JPA SQL
 Persist data in SQL stores with Java Persistence API using Spring Data and Hibernate.

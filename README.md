@@ -33,5 +33,6 @@ Provides fast application restarts, LiveReload, and configurations for enhanced 
 mvn compile ( Pour compiler)
 mvn test (Pour lancer les tests)
 mvn package (Pour faire le package)
+mvn clean compile (Popur nettoyer et recompiler)
 
 ```

@@ -24,3 +24,14 @@ Browsing Spring Data REST repositories in your browser.
 *********************************
 Spring Boot DevTools DEVELOPER TOOLS
 Provides fast application restarts, LiveReload, and configurations for enhanced development experience.
+
+
+*************************************
+## Commandes Maven
+
+```
+mvn compile ( Pour compiler)
+mvn test (Pour lancer les tests)
+mvn package (Pour faire le package)
+
+```

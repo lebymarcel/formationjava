@@ -67,5 +67,9 @@ http; Adresse IP: Port
 Le port utilisé ici est le 8080
 http://127.0.0.1:8080/
 .
+## JPA Repository permet d'appeler les méthodes ci dessous, qui permettent de manipuler les entités
+Voir le lien ci dessous.
+https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/JpaRepository.html
 
+count, delete, deleteAll, deleteAll, deleteAllById, deleteById, existsById, findById, save
 

@@ -60,7 +60,12 @@ apres avoir compiler
 mvn package
 on lance avaec java-jar
 Lorsqu'on a le message : "Tomcat started on port(s): 8080 (http) with context path"
-Le projet est donc bon
+Le projet est donc bon.
+
+Allez sur l'adresse IP :
+http; Adresse IP: Port 
+Le port utilisé ici est le 8080
+http://127.0.0.1:8080/
 .
 
 

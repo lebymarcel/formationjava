@@ -75,6 +75,7 @@ count, delete, deleteAll, deleteAll, deleteAllById, deleteById, existsById, find
 Ces méthodes permettent de mettre a jour la base de données et de la manipuler.
 
 ## Architecture end to end (Architecture spring boot
+0-Serveur Web Tomcat
 1-HTML CSS JAVASCRIPT
 2-FRAMEWORK thymeleaf https://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html
 3-Spring mvc : controller (C)

@@ -98,3 +98,8 @@ https://spring.io/guides/gs/serving-web-content/
 
 
 https://www.baeldung.com/thymeleaf-list
+
+//***Chemin
+exercice
+https://github.com/eugenp/tutorials/tree/master/spring-web-modules/spring-mvc-forms-thymeleaf/src
+

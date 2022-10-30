@@ -45,10 +45,14 @@ mvn clean compile (Popur nettoyer et recompiler)
 
 ```
 *****
-Ligne de commande pour exécuter le projet 
+##  Ligne de commande pour exécuter le projet 
+
 C:\WORKPLACE\FORMATION JAVA\easygescom\target>java -jar easygescom-0.0.1-SNAPSHOT.jar
+
+```
 Java -jar +nom du projet 
 Voir ci dessous  :
 java -jar easygescom-0.0.1-SNAPSHOT.jar
 
+```
 

@@ -92,5 +92,9 @@ NB: Ctrl +C pour arreter le programme sous MSDOS
 
 https://www.baeldung.com/spring-response-entity
 
+https://spring.io/guides/gs/serving-web-content/
+
+## ## Faire des listes avec Thymeleaf
 
 
+https://www.baeldung.com/thymeleaf-list

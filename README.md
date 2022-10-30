@@ -86,7 +86,7 @@ Ces méthodes permettent de mettre a jour la base de données et de la manipuler
 
 
 
-
+NB: Ctrl +C pour arreter le programme sous MSDOS
 
 
 

@@ -55,4 +55,12 @@ Voir ci dessous  :
 java -jar easygescom-0.0.1-SNAPSHOT.jar
 
 ```
+## Execution de l'application
+apres avoir compiler
+mvn package
+on lance avaec java-jar
+Lorsqu'on a le message : "Tomcat started on port(s): 8080 (http) with context path"
+Le projet est donc bon
+.
+
 

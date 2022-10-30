@@ -103,3 +103,6 @@ https://www.baeldung.com/thymeleaf-list
 exercice
 https://github.com/eugenp/tutorials/tree/master/spring-web-modules/spring-mvc-forms-thymeleaf/src
 
+//*********************
+Lien exercice 001
+https://github.com/eugenp/tutorials/blob/master/spring-web-modules/spring-mvc-forms-thymeleaf/src/main/resources/templates/books/allBooks.html

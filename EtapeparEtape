@@ -1,0 +1,15 @@
+
+Etape 0 : S'assurer que Java, Maven (Outil qui va générer le squelette, il compile, il package et il déploie)  sont installé
+L'IDE sera eclipse
+S'assurer que java et Maven sont bien installés
+Etape 2:identifier toutes les dépendences de base necessaires
+Exemples: 
+***Web
+StarterWeb,Moteur de template Web
+Moteur de CSS
+***Base de données
+StarterJPA pourla base de données
+les drivers de Mysql, DRIVERS de Postgré.
+
+
+
